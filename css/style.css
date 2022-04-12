@@ -1,0 +1,55 @@
+.para1{
+    
+    color: rgb(131, 236, 222);
+    font-size: 18px;
+}
+.para2{
+    color: rgb(131, 236, 222);
+    font-size: 18px;
+}
+.para3{
+    color:  rgb(131, 236, 222);
+    font-size: 18px;
+}
+.para4{
+    color:  rgb(131, 236, 222);
+    font-size: 18px;
+}
+.paraa{
+    color:rgb(131, 236, 222);
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+.new{
+    background-color: rgb(26, 30, 36);
+}
+.item{
+    display: inline;
+    color:rgb(131, 236, 222);
+    margin-right: 0;
+    
+    
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    margin: 0;
+    height: 18px;
+    list-style-type: none;
+    padding: 18px 0;
+    
+    margin-left: initial;
+}
+a{
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    color:rgb(62, 236, 141);
+    font-size:1.5vw;
+}
+a:hover{
+    color: lavender;
+}

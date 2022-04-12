@@ -1,0 +1,80 @@
+.bio{
+    margin:auto;
+    
+    float: left;
+    border:2px  rgb(255, 241, 241) solid;
+    width: 29%;
+    height: inherit;
+    background-color:  rgb(160, 224, 224);
+  color: rgb(17, 82, 102);
+  box-shadow: 2px 2px 15px lawngreen;
+  box-shadow: 2px 2px 15px rgb(14, 10, 13);
+  box-shadow: 2px 2px 15px rgb(224, 216, 93);
+ 
+}
+.work{
+  margin: auto;
+   
+   height: inherit;
+font-size: 23px;
+text-align: center;
+    
+    border: 2px  rgb(255, 241, 241) solid ; 
+    background-color:  rgb(160, 224, 224);
+  color: rgb(17, 82, 102);
+  background-color:  rgb(252, 235, 235);
+  box-shadow: 2px 2px 15px rgb(83, 219, 208);
+  box-shadow: 2px 2px 15px rgb(14, 10, 13);
+  box-shadow: 2px 2px 15px rgb(224, 216, 93);
+
+}
+#experience{
+  float: right;
+  width: 70%;
+  height: 450px;
+}
+.education{
+ 
+  border: 2px  rgb(255, 241, 241) solid; 
+  margin: auto;
+  float: right;
+ width: 70%;
+ background-color:  rgb(160, 224, 224);
+  color: rgb(17, 82, 102);
+  box-shadow: 2px 2px 15px lawngreen;
+  box-shadow: 2px 2px 15px rgb(83, 219, 208);
+ 
+  box-shadow: 2px 2px 15px rgb(14, 10, 13);
+  box-shadow: 2px 2px 15px rgb(224, 216, 93);
+}
+#edu{
+  height: 627px;
+  width: 70%;
+}
+.links{
+ 
+  background-color:  rgb(252, 235, 235);
+  color: rgb(17, 82, 102);
+  margin: auto;
+  float: left;
+  border: 2px  rgb(255, 241, 241) solid; 
+  height: 250px;
+  width: 29%;
+  box-shadow: 2px 2px 15px rgb(172, 255, 88);
+  box-shadow: 2px 2px 15px rgb(224, 216, 93);
+ 
+ 
+}
+  
+a{
+  text-decoration: none;
+  font-size: 1.5vw;
+  color: rgb(58, 116, 5);
+}
+a:hover{
+  color: black;
+}
+img{
+  height: 169px;
+  width: 361px;
+}
